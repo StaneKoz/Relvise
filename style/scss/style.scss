@@ -964,15 +964,15 @@ body {
 }
 
 .column-footer__link-icon_phone {
-  background: url("/img/footer/top/footer-icon-tel.svg") no-repeat left center/24px auto;
+  background: url("../../img/footer/top/footer-icon-tel.svg") no-repeat left center/24px auto;
 }
 
 .column-footer__link-icon_map {
-  background: url("/img/footer/top/footer-icon-map.svg") no-repeat left/24px 100%;
+  background: url("../../img/footer/top/footer-icon-map.svg") no-repeat left/24px 100%;
 }
 
 .column-footer__link-icon_email {
-  background: url("/img/footer/top/footer-icon-email.svg") no-repeat left center/24px auto;
+  background: url("../../img/footer/top/footer-icon-email.svg") no-repeat left center/24px auto;
 }
 
 .footer__bottom {
@@ -1029,7 +1029,7 @@ body {
     top: 0;
     width: 100%;
     height: 100%;
-    background: url('/img/footer/top/arrow-24.ico');
+    background: url('../../img/footer/top/arrow-24.ico');
     transition: 0.3s;
   }
 
